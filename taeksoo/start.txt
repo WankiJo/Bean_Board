@@ -1,1 +1,26 @@
 start!
+<html>
+ <head>
+  <title> plz ez </title>
+  <style type = "text/css" media "screen">
+   #header{
+            background: red; padding: 20px;
+          }
+   #header2{
+            background: yellow; padding: 20px;
+           }
+   #footer{
+           background: blue; padding: 20px;
+          }
+   #footer2{
+            background: green; padding: 20px;
+           }
+  </style>
+ </head>
+ <body>
+  <div id = "header"> 1 </div>
+  <div id = "header2"> 2 </div>
+  <div id = "footer"> 3 </div>
+  <div id = "footer2"> 4 </div>
+ </body>
+</html>
